@@ -7,3 +7,4 @@ models
 logs
 /lenet*
 /checkpoint
+.idea
